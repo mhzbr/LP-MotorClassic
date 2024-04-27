@@ -48,7 +48,7 @@ header .navegation  li{
     list-style: none;
 }
 header .navegation li a{
-    display: inline-block;
+    display: flex;
     color: #fff;
     font-weight: 500;
     text-decoration: none;
@@ -82,7 +82,7 @@ header .navegation li a{
     color: #fff;
 }
 .content .text a{
-    display: inline-block;
+    display: flex;
     margin-top: 50px;
     padding: 10px 25px;
     background: #e51e2a;
@@ -108,7 +108,7 @@ header .navegation li a{
     list-style: none;
 }
 .icons li a{
-    display: inline-block;
+    display: flex;
     margin-left: 45px;
     background: #222;
     width: 50px;
